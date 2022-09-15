@@ -3,4 +3,4 @@ Our vision is to help improve the TurtleTech UAV capabilities by adding a neural
 
 ## Product Backlog
 For product Backlog, see ZenHub tab (GitHub extension) <br/>
-<img src="assets/images/zenhub_pointer.png" width=30% height=30%>
+<img src="assets/images/zenhub_pointer.png" width=60% height=60%>
