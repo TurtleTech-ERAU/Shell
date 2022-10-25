@@ -1,0 +1,2 @@
+# Ignore turtle images
+code/images/*
