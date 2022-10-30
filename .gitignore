@@ -1,6 +1,7 @@
 # Ignore turtle images
-code/Tensorflow/images/*
-code/Tensorflow/workspace/pre-trained-models/*
-code/Tensorflow/workspace/models/*
-code/Tensorflow/workspace/annotations/*
-code/Tensorflow/labelimg/*
+/code/Tensorflow/images/*
+/code/Tensorflow/workspace/pre-trained-models/*
+/code/Tensorflow/workspace/models/*
+/code/Tensorflow/workspace/annotations/*
+/code/Tensorflow/labelimg/*
+/code/tfod/*
