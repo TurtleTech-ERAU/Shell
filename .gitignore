@@ -3,3 +3,4 @@ code/Tensorflow/images/*
 code/Tensorflow/workspace/pre-trained-models/*
 code/Tensorflow/workspace/models/*
 code/Tensorflow/workspace/annotations/*
+code/Tensorflow/labelimg/*
