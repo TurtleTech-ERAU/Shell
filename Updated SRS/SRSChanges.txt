@@ -1,0 +1,8 @@
+1- Corrected the format of the SRS, made it consistent with regards
+to headings and text fonts.
+
+2- Added a few diagrams to visualize the software structure.
+
+3- Added some details into the "Overall Description" section.
+
+4- Added some extra headings as well. 
