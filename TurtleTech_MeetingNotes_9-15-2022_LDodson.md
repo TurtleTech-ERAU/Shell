@@ -21,3 +21,5 @@
 //and beginning documentation for next deliverables
 //as well as start working with Python to try out some first-trial neural networks
 //So we left with plans to focus on those, and to meet at 1pm on Sunday, Sep 18th over Discord.
+
+I am changing this
